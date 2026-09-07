@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 620" role="img" aria-labelledby="title desc">
+<title id="title">UX Craft</title><desc id="desc">Less guesswork. Better interfaces. A portable agent skill with 30 principles, six web playbooks and three working modes.</desc>
+<rect width="1600" height="620" rx="24" fill="#131610"/>
+<g fill="none" stroke="#343a2e"><path d="M72 98H1528M72 490H1528"/><path d="M1180 136v312M1228 136v312M1276 136v312M1324 136v312M1372 136v312M1420 136v312M1468 136v312M1516 136v312"/><path d="M1176 160h352M1176 208h352M1176 256h352M1176 304h352M1176 352h352M1176 400h352M1176 448h352"/></g>
+<g font-family="Arial, Helvetica, sans-serif"><text x="72" y="66" fill="#d6ff85" font-size="21" letter-spacing="4">AN AGENT SKILL FOR THE WEB</text><text x="1528" y="66" text-anchor="end" fill="#d1d5c9" font-size="20">OPEN SOURCE / V1.0.1</text>
+<text x="60" y="330" fill="#f4f4ec" font-size="188" font-weight="800" letter-spacing="-13">UX CRAFT</text>
+<text x="76" y="410" fill="#c6ccb9" font-size="34">Less guesswork. Better interfaces.</text>
+<text x="74" y="550" fill="#d6ff85" font-size="23" font-weight="700">30 PRINCIPLES</text><text x="367" y="550" fill="#d6ff85" font-size="23" font-weight="700">06 PLAYBOOKS</text><text x="677" y="550" fill="#d6ff85" font-size="23" font-weight="700">03 MODES</text><text x="1528" y="550" text-anchor="end" fill="#f4f4ec" font-size="21">BUILD / AUDIT / REFINE</text></g>
+<g transform="translate(1348 291)"><circle r="116" fill="#d6ff85"/><path d="M-72-24h144M-72 24h144M-24-72V72M24-72V72" stroke="#131610" stroke-width="19"/><rect x="-30" y="-30" width="60" height="60" rx="30" fill="#131610"/><circle r="10" fill="#d6ff85"/></g>
+</svg>
