@@ -1,0 +1,3 @@
+display_name: UX Craft
+short_description: Build, audit and refine web interfaces with evidence-led UX decisions.
+default_prompt: Use UX Craft to inspect the task, select only relevant UX principles, implement the complete behavior, and verify the real user journey without inventing evidence.
